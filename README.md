@@ -1,3 +1,7 @@
+## Resume
+
+📄 [Download Resume](./Priyadharshini_PK_Resume.pdf)
+
 # Hi, I'm Priyadharshini PK 👋
 
 ### Product | GTM | Growth | Strategic Partnerships | Business Transformation
