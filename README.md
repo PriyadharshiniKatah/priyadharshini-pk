@@ -1,6 +1,6 @@
 ## Resume
 
-📄 [Download Resume](./Priyadharshini_PK_Resume.pdf)
+📄 [Download Resume](https://github.com/PriyadharshiniKatah/priyadharshini-pk/blob/main/PriyadharshiniPK_Resume_PM.pdf)
 
 # Hi, I'm Priyadharshini PK 👋
 
